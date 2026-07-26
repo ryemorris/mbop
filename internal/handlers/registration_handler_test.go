@@ -14,7 +14,7 @@ import (
 	"github.com/redhatinsights/mbop/internal/config"
 	"github.com/redhatinsights/mbop/internal/logger"
 	"github.com/redhatinsights/mbop/internal/store"
-	"github.com/redhatinsights/platform-go-middlewares/identity"
+	"github.com/redhatinsights/platform-go-middlewares/v2/identity"
 	"github.com/stretchr/testify/suite"
 )
 

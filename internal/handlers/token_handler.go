@@ -6,7 +6,7 @@ import (
 
 	"github.com/redhatinsights/mbop/internal/config"
 	"github.com/redhatinsights/mbop/internal/models"
-	"github.com/redhatinsights/platform-go-middlewares/identity"
+	"github.com/redhatinsights/platform-go-middlewares/v2/identity"
 )
 
 type TokenResp struct {

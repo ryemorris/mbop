@@ -6,7 +6,7 @@ import (
 
 	"github.com/golang-jwt/jwt/v5"
 	"github.com/redhatinsights/mbop/internal/config"
-	"github.com/redhatinsights/platform-go-middlewares/identity"
+	"github.com/redhatinsights/platform-go-middlewares/v2/identity"
 )
 
 type Token struct {

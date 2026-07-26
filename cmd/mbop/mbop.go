@@ -13,7 +13,7 @@ import (
 	"github.com/redhatinsights/mbop/internal/middleware"
 	"github.com/redhatinsights/mbop/internal/service/mailer"
 	"github.com/redhatinsights/mbop/internal/store"
-	"github.com/redhatinsights/platform-go-middlewares/identity"
+	"github.com/redhatinsights/platform-go-middlewares/v2/identity"
 )
 
 var conf = config.Get()
